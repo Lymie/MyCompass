@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCompass</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_compass">CompassActivity</string>
+    <string name="button_startCompass">Start Compass</string>
+    <string name="button_startAccelerometer">Start Accelerometer</string>
+    <string name="title_activity_accelerometer">AccelerometerActivity</string>
+</resources>
